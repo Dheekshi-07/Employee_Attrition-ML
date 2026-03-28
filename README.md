@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Employee Attrition Prediction
 
 Project Overview
@@ -103,3 +104,7 @@ GitHub: https://github.com/Dheekshi-07
 License
 This project is for educational purposes.
 
+=======
+# Employee_Attrition-ML
+Industry-Oriented Machine Learning System for Employee Attrition Prediction using Python, Pandas, Seaborn, Scikit-learn, and Streamlit. Includes EDA, feature engineering, ML model, evaluation metrics, and interactive dashboard.
+>>>>>>> 974b1476f9921a8469496390169a45a5dee48cdf
