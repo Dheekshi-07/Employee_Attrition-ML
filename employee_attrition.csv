@@ -1,0 +1,11 @@
+EmployeeID,Age,Gender,Department,JobRole,YearsAtCompany,YearsSinceLastPromotion,Salary,PerformanceRating,Attrition
+1,28,Male,Sales,Sales Executive,3,1,50000,3,0
+2,35,Female,HR,HR Manager,7,2,75000,4,0
+3,40,Male,R&D,Developer,10,5,90000,5,1
+4,30,Female,Sales,Sales Executive,4,1,52000,3,0
+5,25,Male,R&D,Analyst,2,0,45000,3,1
+6,45,Female,HR,HR Executive,12,3,80000,4,0
+7,32,Male,Sales,Manager,6,2,70000,4,1
+8,29,Female,R&D,Developer,3,1,60000,3,0
+9,38,Male,Sales,Sales Executive,9,4,65000,5,1
+10,26,Female,R&D,Analyst,1,0,48000,3,0
